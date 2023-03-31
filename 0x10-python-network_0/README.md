@@ -6,10 +6,10 @@ Task six was an algorithm challenge separate from the overall project theme comp
 
 # Tasks
 
-NOTE: The curl behavior in all Bash scripts were written to interact with a server set up on a container provided by 
+NOTE: The curl behavior in all Bash scripts were written to interact with a server set up on a container provided by
 
-  * 0. cURL body size ###### 0-body_size.sh:
-    Bash script that sends a GET request to a given URL and displays the size of the response body in bytes.
+- 0. cURL body size ###### 0-body_size.sh:
+     Bash script that sends a GET request to a given URL and displays the size of the response body in bytes.
 
-  * 1. cURL to the end
-      - ###### 1-body.sh: Bash script that sends a GET request to a given URL and displays the response body for a 200 status code response.
+- 1. cURL to the end
+  - ###### 1-body.sh: Bash script that sends a GET request to a given URL and displays the response body for a 200 status code response.
